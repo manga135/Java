@@ -3,6 +3,11 @@ import java.util.Scanner;
  
 public class Aplic 
 {
+ /**
+ *
+ 
+@author Matheus Camargo
+*/
     public static void main(String[] args) 
     {
         Scanner entrada = new Scanner(System.in);
@@ -37,3 +42,4 @@ public class Aplic
     }
     
 }
+
