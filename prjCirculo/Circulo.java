@@ -1,6 +1,10 @@
 
 public class Circulo 
 {
+/**
+*
+@author carol
+*/
     private double raio;
     
     public void setRaio (double r)
@@ -28,3 +32,4 @@ public class Circulo
         return (raio * 2);
     }
 }
+
