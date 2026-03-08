@@ -3,7 +3,7 @@ public class Circulo
 {
 /**
 *
-@author carol
+@author Matheus Camargo
 */
     private double raio;
     
@@ -32,4 +32,5 @@ public class Circulo
         return (raio * 2);
     }
 }
+
 
