@@ -4,7 +4,7 @@ import java.util.Set;
 
 /**
  *
- * @author Caroline Espanha Simão
+ * @author Matheus Camargo
  */
 public class Aplic {
 
@@ -60,3 +60,4 @@ public class Aplic {
     }
     
 }
+
