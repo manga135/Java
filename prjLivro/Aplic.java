@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Yuki
+ * @author Matheus Camargo
  */
 public class Aplic {
     public static void main(String[] args) {
